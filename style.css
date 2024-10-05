@@ -1,0 +1,14 @@
+
+    /* Stijl voor de navbar */
+    .navbar {
+      background-color: black; /* Zwarte achtergrond */
+    }
+    .navbar .nav-link {
+      color: #D4AF37; /* Gouden kleur voor links */
+    }
+    .navbar .nav-link:hover {
+      color: #f1c40f; 
+    }
+    body {
+        background-color: #d3a900;
+    }
